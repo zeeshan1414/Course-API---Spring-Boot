@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Jun 07 16:39:58 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0172-8e79-0f5c-000008b73e50 
+on database directory memory:C:\Users\zeesh\IdeaProjects\course-api\out\artifacts\course_api_jar\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2cdf8d8a 
+Loaded from file:/C:/Users/zeesh/IdeaProjects/course-api/out/artifacts/course_api_jar/course-api.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.6+8-LTS
+user.dir=C:\Users\zeesh\IdeaProjects\course-api\out\artifacts\course_api_jar
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
